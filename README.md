@@ -74,7 +74,7 @@ I'm a passionate **Full Stack Developer** with **2 years of professional experie
 ## 💼 Professional Experience
 
 ### **Full Stack Developer** - [Bitlinks AI](https://bitlinks.ai) *(Current)*
-- Developing and maintaining full-stack applications using React, Node.js, and various databases
+- Developing and maintaining full-stack applications using React, Angular, Nest.js, and various databases
 - Implementing responsive UI components with Tailwind CSS and Chakra UI
 - Collaborating with cross-functional teams to deliver high-quality software solutions
 
@@ -103,7 +103,7 @@ Various full-stack applications including:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Just Puplic GitHub Stats
 
 <div align="center">
   
