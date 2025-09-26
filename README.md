@@ -1,50 +1,156 @@
-# Hi there 👋, I'm YOUR NAME
+<h1 align="center">Hi there 👋, I'm Esmatullah Mohammadi</h1>
+<h3 align="center">A Passionate Full Stack Developer from Afghanistan</h3>
 
-Welcome to my GitHub profile! This is my special repository where I share my skills, projects, and experiences. 🚀  
+<p align="center">
+  <a href="https://esmatullah-mohammadi-weblog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/esmatullah-mohammadi-664775321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:esmatullah1382@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/93777187806">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Angular+%7C+Node.js;MERN+Stack+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project/Goal]**
-- 🌱 I’m learning **[Tech/Skill you're learning]**
-- 💡 I enjoy building **[Type of projects you like, e.g., web apps, AI tools, games]**
-- 🎯 My goal: **[Your career or personal growth goal]**
-- ⚡ Fun fact: **[Something interesting about you]**
+
+I'm a passionate **Full Stack Developer** with **2 years of professional experience** in building modern web applications. I recently graduated with a **Bachelor's degree in Computer Science** from **Kabul Polytechnic University (2021-2025)** with high honors.
+
+- 🔭 Currently working as **Full Stack Developer at Bitlinks AI**
+- 🌱 Learning **Docker, Advanced Backend Architectures, and System Design**
+- 💡 Enjoy building **scalable web applications with modern technologies**
+- 🎯 Goal: **Become a Senior Developer and contribute to impactful projects**
+- ⚡ Fun fact: **I love solving complex problems and continuously learning new technologies**
 
 ---
 
-## 🛠️ Skills & Tools
-Here are some of the technologies and tools I work with:
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-*(Add/remove badges as per your skills)*  
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/>
+</p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
-## 📂 Projects
-Here are some of my favorite projects:
+## 💼 Professional Experience
 
-- [**Project 1**](https://github.com/YOUR-USERNAME/project1) – Short description of what it does  
-- [**Project 2**](https://github.com/YOUR-USERNAME/project2) – Short description of what it does  
-- [**Project 3**](https://github.com/YOUR-USERNAME/project3) – Short description of what it does  
+### **Full Stack Developer** - [Bitlinks AI](https://bitlinks.ai) *(Current)*
+- Developing and maintaining full-stack applications using React, Node.js, and various databases
+- Implementing responsive UI components with Tailwind CSS and Chakra UI
+- Collaborating with cross-functional teams to deliver high-quality software solutions
+
+### **Software Developer Intern** - MCIT *(3 months)*
+- Gained hands-on experience in software development lifecycle
+- Participated in real-world projects and code reviews
+- Enhanced problem-solving and teamwork skills
+
+### **Developer** - Winsoft Technology
+- Contributed to various web development projects
+- Worked with modern technologies and best practices
+
+---
+
+## 📂 Featured Projects
+
+### [Personal Portfolio Website](https://esmatullah-mohammadi-weblog.vercel.app/)
+A modern, responsive portfolio website showcasing my skills, projects, and experience.
+
+### [GitHub Projects](https://github.com/EsmatullahMohammadi?tab=repositories)
+Various full-stack applications including:
+- MERN Stack applications
+- RESTful APIs
+- Frontend projects with React and Angular
+- Database design and implementation
 
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+<div align="center">
+  
+  <a href="https://github.com/EsmatullahMohammadi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsmatullahMohammadi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Esmatullah's GitHub stats"/>
+  </a>
+  
+  <a href="https://github.com/EsmatullahMohammadi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsmatullahMohammadi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
+
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=EsmatullahMohammadi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- 📧 [Email Me](mailto:YOUR-EMAIL)  
-- 🐦 [Twitter/X](https://twitter.com/YOUR-HANDLE)  
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/esmatullah-mohammadi-664775321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:esmatullah1382@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://esmatullah-mohammadi-weblog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://wa.me/93777187806">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+
+<div align="center">
+  
+  ### ⚡️ **Fun Fact**
+  *"I believe in continuous learning and improving one line of code at a time!"*
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=EsmatullahMohammadi&color=blueviolet&style=flat-square)
+  
+  **Thank you for visiting my profile!** 😊
+  
+</div>
